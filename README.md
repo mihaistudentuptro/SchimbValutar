@@ -1,8 +1,8 @@
 01.06.2023
 
-# SchimbValutar
+**SchimbValutar**
 
-Nume studenti:
+**Nume studenti:**
 
 - Duica Mihaita
 - Geru Ion
