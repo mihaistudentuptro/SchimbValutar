@@ -15,11 +15,11 @@ Nume studenti:
 
 Am contribuit in mod egal la scrierea codului (proiect realizat impreuna pe un singur laptop)
 
-# Duica Mihaita:
+**Duica Mihaita:**
 Documentare despre utilizarea api si pachetul requests, realizarea modulului pentru extragerea valutelor
 
-# Kandus Eduard:
+**Kandus Eduard:**
 Afisarea valutelor acceptate in consola, functie pentru a verifica daca datele introduse sunt corecte
 
-# Geru Ion:
+**Geru Ion:**
 Repetarea in bucla infinita, introducere date, realizarea conversiei, afisare
