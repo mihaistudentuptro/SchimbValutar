@@ -22,7 +22,7 @@ valutelor, tratare exceptii in cazul lipsei conexiunii la internet sau alte prob
 (cu ajutorul unui dictionar predefinit)
 
 **Kandus Eduard:**
-Afisarea valutelor acceptate in consola, functie pentru a verifica daca datele introduse sunt corecte
+Creare lista valute din dictionar pt. afisarea valutelor acceptate in consola, functie pentru a verifica daca datele introduse sunt corecte
 
 **Geru Ion:**
-Repetarea in bucla infinita, introducere date, realizarea conversiei, afisare
+Repetarea intregului program si verificare date introduse in bucla infinita, formula pt. realizarea conversiei, afisare date
