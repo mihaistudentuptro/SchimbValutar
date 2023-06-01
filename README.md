@@ -9,7 +9,7 @@ Nume studenti:
 - Kandus Eduard
 - Semigrupa 2.1
 
-# Structura:
+**Structura:**
 - Modul get_data.py care preia valutele prin api call si le returneaza in dictionar
 - Modulul main pentru restul codului (salvare valute in dictionar, introdcere / verificare date, conversie, afisare..
 
