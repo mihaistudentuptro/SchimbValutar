@@ -11,9 +11,9 @@ def main():
 
     data = response.json()
 
-    exchange_rates = data["rates"]
+    valute = data["rates"]
 
-    return exchange_rates
+    return valute
 
 
 if __name__ == "__main__":
