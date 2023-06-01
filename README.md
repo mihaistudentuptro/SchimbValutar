@@ -7,7 +7,8 @@
 - Duica Mihaita
 - Geru Ion
 - Kandus Eduard
-- Semigrupa 2.1
+
+**Semigrupa:** 2.1
 
 **Structura:**
 - Modul get_data.py care preia valutele prin api call si le returneaza in dictionar
